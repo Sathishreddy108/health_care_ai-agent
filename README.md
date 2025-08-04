@@ -1,2 +1,2 @@
 # health_care_ai-agent
- An Agentic AI Health Symptom Checker helps users understand their health conditions by analyzing symptoms and providing probable causes, preventive advice, and care recommendations.
+ The Agentic AI Health Symptom Checker helps users understand potential health conditions by analyzing symptoms described in natural language. Built on IBM Cloud, it uses a fine-tuned IBM Granite model to provide probable causes, preventive advice, and safe care recommendations.
